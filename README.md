@@ -2,7 +2,7 @@
  
 Information
 - [LSHTM key information](https://lshtm.sharepoint.com/sites/student-doctoral-college/SitePages/Key-information-for-Research-Degree-Students.aspx)
-- [2023/4 Research degree handbook](./admin/research-degrees-handbook)
+- [2023/4 Research degree handbook](admin/research-degrees-handbook)
 - [PhD by Publication generic info](https://lshtm.sharepoint.com/sites/student-doctoral-college/SitePages/PhD-by-Publication.aspx)
 
 Timeline
