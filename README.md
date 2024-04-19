@@ -10,8 +10,9 @@ Timeline
 - Minimum period (6 months) = March 2024
 - Maximum period (18 months) = March 2025
 
-Application
-- <https://docs.google.com/document/d/1DPm4yNcqBtJU27sGlNQPrB9ZWZ5Q8oD2hNw1SSzATZk/edit#heading=h.o3do3ptslxvx> 
+Plan
+- Current plan: <https://docs.google.com/document/d/1a4Dk6jRnmvyr9416FrIcipww1cm14dtyYSVxyjyphYM/edit>
+- Original application: <https://docs.google.com/document/d/1DPm4yNcqBtJU27sGlNQPrB9ZWZ5Q8oD2hNw1SSzATZk/edit#heading=h.o3do3ptslxvx> 
 
 Papers:
 - [1] 	Sherratt, K.*, Abbott, S.*, and others, 2021. Exploring surveillance data biases when estimating the reproduction number: with insights into subpopulation transmission of COVID-19 in England, Phil. Trans. R. Soc., doi.org/10.1098/rstb.2020.0283 
